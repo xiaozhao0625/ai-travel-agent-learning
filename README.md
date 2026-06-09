@@ -201,6 +201,14 @@ streamlit run local_travel_agent.py
 
 ---
 
+## 🛠️ 动手实操清单
+
+> ⭐ **如果你是来学习的，直接看这里**: [docs/hands-on-lab.md](docs/hands-on-lab.md)
+
+包含：亲手跑通 → 拆代码 → 破坏实验 → 自建功能 → 学会自检，完整4步骤。
+
+---
+
 ## 📚 推荐学习路径
 
 | 步骤 | 任务 | 预计时间 | 学习目标 |
